@@ -1,0 +1,58 @@
+.add-items{
+    background: #5D9CD6;
+    padding: 45px;
+}
+.add-items h1{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 45px;
+    text-align: right;
+}
+.add-items h5{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    text-align: right;
+    
+}
+.add-items input{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.new-items h2{
+    color: #878889;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 25px;
+    padding: 30px;
+
+}
+
+.btnus{
+    -moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	box-shadow:inset 0px 1px 0px 0px #ffffff;
+	background-color:#ffffff;
+	-webkit-border-radius:6px;
+	-moz-border-radius:6px;
+	border-radius:6px;
+	border:1px solid #dcdcdc;
+	display:inline-block;
+	cursor:pointer;
+	color:#666666;
+	font-family:Trebuchet MS;
+	font-size:15px;
+	font-weight:bold;
+	padding:6px 24px;
+	text-decoration:none;
+    text-shadow:1px 3px 0px #ffffff;
+    margin: 20px;
+}
+
+.items{
+    color: #878889;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 15px;
+    padding: 30px;
+}
